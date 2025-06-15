@@ -112,17 +112,14 @@ const Portfolio = () => {
                         </p>
 
                         <div className="flex flex-wrap justify-center gap-4 mb-8">
-                            <a href="tel:7200299426" className="flex items-center gap-2 bg-gray-900/60 backdrop-blur-md px-6 py-3 rounded-full border border-blue-600 hover:bg-blue-900/30 hover:shadow-[0_0_15px_rgba(59,130,246,0.5)] transition-all duration-300">
-                                <Phone size={16} className="text-blue-400" />
-                                <span>7200299426</span>
-                            </a>
+                          
                             <a href="mailto:santhosraj14@gmail.com" className="flex items-center gap-2 bg-gray-900/60 backdrop-blur-md px-6 py-3 rounded-full border border-blue-600 hover:bg-blue-900/30 hover:shadow-[0_0_15px_rgba(59,130,246,0.5)] transition-all duration-300">
                                 <Mail size={16} className="text-blue-400" />
                                 <span>santhosraj14@gmail.com</span>
                             </a>
                             <div className="flex items-center gap-2 bg-gray-900/60 backdrop-blur-md px-6 py-3 rounded-full border border-blue-600">
                                 <MapPin size={16} className="text-blue-400" />
-                                <span>Coimbatore, India</span>
+                                <span>Chennai, India</span>
                             </div>
                         </div>
 
