@@ -437,7 +437,7 @@ const Portfolio = () => {
                         🌌 Open to AI/ML roles, Research Internships, and Startup Collaborations
                     </p>
                     <p className="text-blue-500">
-                        © 2024 Santhos Raj B S. Built with React & Tailwind CSS.
+                        © 2024 Santhos Raj.
                     </p>
                 </div>
             </footer>
